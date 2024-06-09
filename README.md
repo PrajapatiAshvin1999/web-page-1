@@ -1,3 +1,6 @@
+#Task 1
+## I have to add an element named "Hire Me" in the navigation menu.
+
 # web-page-1
 using HTML, CSS, JAVASRIPT
-![](C:\Users\91955\Desktop\ashvin\full stack\javaScript\Project\DOM Assignment 1\image.png)
+
